@@ -57,7 +57,7 @@ export default function MainLayout() {
       </main>
 
       <footer className="footer">
-        <p>ShopFlow — Full-Stack E-Commerce (FastAPI + React)</p>
+        <p>Designed and built by Giwa Abdulsamad © 2026</p>
       </footer>
     </div>
   );
